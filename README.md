@@ -1,4 +1,223 @@
 <h1 align="center">Hi 👋, I'm Chirag Raj</h1>
+
+<h3 align="center">
+Software Engineer | Backend & Full-Stack Developer | .NET • Node.js • Microservices • Doocker • CI/CD • React.Js • SpringBoot
+</h3>
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=5codeman&label=Profile%20views&color=0e75b6&style=flat" alt="5codeman" />
+</p>
+
+<img align="right" alt="Coding" width="440" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<!-- OLD POSITIONING -->
+<!-- <h3 align="center">Software Engineer | MERN Stack Developer | CSE Graduate</h3> -->
+
+
+### 🚀 About Me
+
+- 💼 Software Engineer with experience building scalable backend systems, microservices, REST APIs, and enterprise-grade applications.
+
+- 🔭 Currently working on enterprise automotive and vehicle remarketing platforms at **OPENLANE**.
+
+- 🌱 Currently learning **System Design**, **Distributed Systems**, and advanced backend architecture patterns.
+
+- ⚙️ Experienced in building and maintaining scalable applications using **.NET**, **Node.js**, **Docker**, **Kubernetes**, **Redis**, and **RabbitMQ**.
+
+- 🧠 Interested in backend engineering, distributed systems, cloud-native development, observability, and performance optimization.
+
+- 👨‍💻 All of my projects are available at:
+  [GitHub Repositories](https://github.com/5codeman?tab=repositories)
+
+- 🌐 Portfolio:
+  [Portfolio Website](https://5codeman.github.io/MY-PORTFOLIO/)
+
+- 📫 Reach me at:
+  **itschiragraj2025@gmail.com**
+
+- 📄 Resume:
+  [Resume Drive Link](https://drive.google.com/drive/u/1/folders/1LRVWLGIaCfJDwTsLzAlyvfu3LTac_-2x)
+
+---
+
+### 👨‍💻 Languages
+<p align="left">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+</p>
+
+---
+
+### ⚙️ Backend Technologies
+<p align="left">
+
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</a>
+
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="left">
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+### ☁️ DevOps & Cloud
+<p align="left">
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+</a>
+
+<a href="https://helm.sh/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="helm" width="40" height="40"/>
+</a>
+
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+### 🎨 Frontend Technologies
+<p align="left">
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+</a>
+
+<a href="https://redux.js.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<!-- <p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=5codeman&show_icons=true&locale=en&layout=compact" alt="5codeman" />
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=5codeman&show_icons=true&locale=en" alt="5codeman" />
+</p> -->
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5codeman&" alt="5codeman" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/chirag-raj-5823b41a3/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-raj-5823b41a3/" height="30" width="40" />
+</a>
+
+<a href="https://stackoverflow.com/users/21097903/chirag-raj" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21097903/chirag-raj" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/code_man5/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="code_man5/" height="30" width="40" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/kingofcode" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kingofcode" height="30" width="40" />
+</a>
+
+</p>
+
+<!-- OLD SOCIAL LINKS KEPT FOR BACKUP -->
+
+<!--
+<a href="https://codesandbox.com/code_man5" target="blank"></a>
+<a href="https://instagram.com/chiragraj49/" target="blank"></a>
+<a href="https://www.hackerrank.com/itschiragraj2025" target="blank"></a>
+-->
+
+
+
+
+
+
+
+
+
+<!-- <h1 align="center">Hi 👋, I'm Chirag Raj</h1>
 <h3 align="center">Software Engineer | MERN Stack Developer | CSE Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5codeman&label=Profile%20views&color=0e75b6&style=flat" alt="5codeman" /> </p>
@@ -37,4 +256,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5codeman&show_icons=true&locale=en" alt="5codeman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5codeman&" alt="5codeman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5codeman&" alt="5codeman" /></p> -->
